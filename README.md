@@ -1,0 +1,2 @@
+# CoverLetterAI
+Created with CodeSandbox
